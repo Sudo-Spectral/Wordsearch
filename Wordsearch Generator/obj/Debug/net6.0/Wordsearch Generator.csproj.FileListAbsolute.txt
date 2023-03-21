@@ -1,0 +1,15 @@
+C:\Users\adria\source\repos\Wordsearch Generator\bin\Debug\net6.0\Wordsearch Generator.exe
+C:\Users\adria\source\repos\Wordsearch Generator\bin\Debug\net6.0\Wordsearch Generator.deps.json
+C:\Users\adria\source\repos\Wordsearch Generator\bin\Debug\net6.0\Wordsearch Generator.runtimeconfig.json
+C:\Users\adria\source\repos\Wordsearch Generator\bin\Debug\net6.0\Wordsearch Generator.dll
+C:\Users\adria\source\repos\Wordsearch Generator\bin\Debug\net6.0\Wordsearch Generator.pdb
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.AssemblyInfo.cs
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.dll
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\refint\Wordsearch Generator.dll
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.pdb
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\Wordsearch Generator.genruntimeconfig.cache
+C:\Users\adria\source\repos\Wordsearch Generator\obj\Debug\net6.0\ref\Wordsearch Generator.dll
