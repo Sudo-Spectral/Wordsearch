@@ -163,7 +163,7 @@ namespace Wordsearch
             }
             
             // Reads in a list of words from a CSV file and creates a list of words to insert into the wordsearch
-            string wordfileLoc = @"V:\P217182 AR\Wordsearch\words.csv";
+            string wordfileLoc = @"File Directory Here!";
             string[] words = { "" };
             var reader = new StreamReader(File.OpenRead(wordfileLoc));
             while (!reader.EndOfStream)
